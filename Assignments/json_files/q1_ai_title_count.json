@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "count": 196794,
+    "db_response_time_ms": 317,
+    "page": 1,
+    "per_page": 1,
+    "groups_count": null
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2122410182",
+      "doi": "https://doi.org/10.5860/choice.33-1577",
+      "title": "Artificial intelligence: a modern approach",
+      "display_name": "Artificial intelligence: a modern approach",
+      "relevance_score": 2969.4883,
+      "publication_year": 1995,
+      "publication_date": "1995-11-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2122410182",
+        "doi": "https://doi.org/10.5860/choice.33-1577",
+        "mag": "2122410182"
+      },
+      "language": "en",
+      "primary_location": {
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5860/choice.33-1577",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764375719",
+          "display_name": "Choice Reviews Online",
+          "issn_l": "0009-4978",
+          "issn": [
+            "0009-4978",
+            "1523-8253",
+            "1943-5975"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316146",
+          "host_organization_name": "Association of College and Research Libraries",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315903",
+            "https://openalex.org/P4310316146"
+          ],
+          "host_organization_lineage_names": [
+            "American Library Association",
+            "Association of College and Research Libraries"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      },
+      "type": "article",
+      "type_crossref": "journal-article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/records/11381885/files/E%20-%20Book%20Artificial%20Intelligence%20A%20modern%20Appro.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5007305440",
+            "display_name": "Stuart Russell",
+            "orcid": "https://orcid.org/0000-0001-5252-4306"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I95457486",
+              "display_name": "University of California, Berkeley",
+              "ror": "https://ror.org/01an7q238",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stuart J. Russell",
+          "raw_affiliation_strings": [
+            "University of California, Berkeley"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of California, Berkeley",
+              "institution_ids": [
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5080389385",
+            "display_name": "Peter Norvig",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1174212",
+              "display_name": "University of Southern California",
+              "ror": "https://ror.org/03taz7m60",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1174212"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I95457486",
+              "display_name": "University of California, Berkeley",
+              "ror": "https://ror.org/01an7q238",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Norvig",
+          "raw_affiliation_strings": [
+            "Univ. of Southern California, Los Angeles; Univ. of California, Berkeley; and Sun Microsystems Labs.#TAB#"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Univ. of Southern California, Los Angeles; Univ. of California, Berkeley; and Sun Microsystems Labs.#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I1174212",
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ]
+        }
+      ],
+      "institution_assertions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 60.854,
+      "has_fulltext": false,
+      "cited_by_count": 22826,
+      "citation_normalized_percentile": {
+        "value": 0.999879,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "33",
+        "issue": "03",
+        "first_page": "33",
+        "last_page": "1577"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13062",
+        "display_name": "Cognitive Computing and Networks",
+        "score": 0.1483,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13062",
+          "display_name": "Cognitive Computing and Networks",
+          "score": 0.1483,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14420",
+          "display_name": "Advanced Research in Systems and Signal Processing",
+          "score": 0.136,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cognitive-robotics",
+          "display_name": "Cognitive robotics",
+          "score": 0.4799776
+        },
+        {
+          "id": "https://openalex.org/keywords/symbolic-artificial-intelligence",
+          "display_name": "Symbolic artificial intelligence",
+          "score": 0.46390316
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.68938833
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6826483
+        },
+        {
+          "id": "https://openalex.org/C2776214188",
+          "wikidata": "https://www.wikidata.org/wiki/Q408386",
+          "display_name": "Inference",
+          "level": 2,
+          "score": 0.51925707
+        },
+        {
+          "id": "https://openalex.org/C207453521",
+          "wikidata": "https://www.wikidata.org/wiki/Q4801079",
+          "display_name": "Artificial intelligence, situated approach",
+          "level": 2,
+          "score": 0.5185169
+        },
+        {
+          "id": "https://openalex.org/C49937458",
+          "wikidata": "https://www.wikidata.org/wiki/Q2599292",
+          "display_name": "Probabilistic logic",
+          "level": 2,
+          "score": 0.49494904
+        },
+        {
+          "id": "https://openalex.org/C192327766",
+          "wikidata": "https://www.wikidata.org/wiki/Q1038799",
+          "display_name": "Cognitive robotics",
+          "level": 3,
+          "score": 0.4799776
+        },
+        {
+          "id": "https://openalex.org/C26205005",
+          "wikidata": "https://www.wikidata.org/wiki/Q5514059",
+          "display_name": "Symbolic artificial intelligence",
+          "level": 3,
+          "score": 0.46390316
+        },
+        {
+          "id": "https://openalex.org/C97541855",
+          "wikidata": "https://www.wikidata.org/wiki/Q830687",
+          "display_name": "Reinforcement learning",
+          "level": 2,
+          "score": 0.4250318
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.39074257
+        },
+        {
+          "id": "https://openalex.org/C90509273",
+          "wikidata": "https://www.wikidata.org/wiki/Q11012",
+          "display_name": "Robot",
+          "level": 2,
+          "score": 0.20015508
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.17277771
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5860/choice.33-1577",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764375719",
+            "display_name": "Choice Reviews Online",
+            "issn_l": "0009-4978",
+            "issn": [
+              "0009-4978",
+              "1523-8253",
+              "1943-5975"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_indexed_in_scopus": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316146",
+            "host_organization_name": "Association of College and Research Libraries",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310315903",
+              "https://openalex.org/P4310316146"
+            ],
+            "host_organization_lineage_names": [
+              "American Library Association",
+              "Association of College and Research Libraries"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false
+        },
+        {
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.11381885",
+          "pdf_url": "https://zenodo.org/records/11381885/files/E%20-%20Book%20Artificial%20Intelligence%20A%20modern%20Appro.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_indexed_in_scopus": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [
+              "European Organization for Nuclear Research"
+            ],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true
+        },
+        {
+          "is_oa": true,
+          "landing_page_url": "http://lib.myilibrary.com?id=933909",
+          "pdf_url": "https://pq-static-content.proquest.com/collateral/media2/documents/ebookcentral-dda.pdf",
+          "source": {
+            "id": "https://openalex.org/S4308707206",
+            "display_name": "Library Union Catalog of Bavaria, Berlin and Brandenburg (B3Kat Repository)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_indexed_in_scopus": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I157725225",
+            "host_organization_name": "University of Illinois Urbana-Champaign",
+            "host_organization_lineage": [
+              "https://openalex.org/I157725225"
+            ],
+            "host_organization_lineage_names": [
+              "University of Illinois Urbana-Champaign"
+            ],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false
+        }
+      ],
+      "best_oa_location": {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5281/zenodo.11381885",
+        "pdf_url": "https://zenodo.org/records/11381885/files/E%20-%20Book%20Artificial%20Intelligence%20A%20modern%20Appro.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400562",
+          "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I67311998",
+          "host_organization_name": "European Organization for Nuclear Research",
+          "host_organization_lineage": [
+            "https://openalex.org/I67311998"
+          ],
+          "host_organization_lineage_names": [
+            "European Organization for Nuclear Research"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      "sustainable_development_goals": [],
+      "grants": [],
+      "datasets": [],
+      "versions": [],
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4233888153",
+        "https://openalex.org/W4206284284",
+        "https://openalex.org/W4205849245",
+        "https://openalex.org/W3036985664",
+        "https://openalex.org/W25632799",
+        "https://openalex.org/W2164902945",
+        "https://openalex.org/W2155631861",
+        "https://openalex.org/W2050250868",
+        "https://openalex.org/W2038983044",
+        "https://openalex.org/W2038873597"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "long-anticipated": [
+          1
+        ],
+        "revision": [
+          2
+        ],
+        "of": [
+          3,
+          13,
+          22
+        ],
+        "this": [
+          4
+        ],
+        "#1": [
+          5
+        ],
+        "selling": [
+          6
+        ],
+        "book": [
+          7
+        ],
+        "offers": [
+          8
+        ],
+        "the": [
+          9,
+          14,
+          18
+        ],
+        "most": [
+          10
+        ],
+        "comprehensive,": [
+          11
+        ],
+        "state": [
+          12
+        ],
+        "art": [
+          15
+        ],
+        "introduction": [
+          16
+        ],
+        "to": [
+          17
+        ],
+        "theory": [
+          19
+        ],
+        "and": [
+          20,
+          59,
+          96
+        ],
+        "practice": [
+          21
+        ],
+        "artificial": [
+          23,
+          101
+        ],
+        "intelligence": [
+          24
+        ],
+        "for": [
+          25
+        ],
+        "modern": [
+          26
+        ],
+        "applications.": [
+          27
+        ],
+        "Intelligent": [
+          28
+        ],
+        "Agents.": [
+          29
+        ],
+        "Solving": [
+          30
+        ],
+        "Problems": [
+          31
+        ],
+        "by": [
+          32
+        ],
+        "Searching.": [
+          33
+        ],
+        "Informed": [
+          34
+        ],
+        "Search": [
+          35
+        ],
+        "Methods.": [
+          36
+        ],
+        "Game": [
+          37
+        ],
+        "Playing.": [
+          38
+        ],
+        "Agents": [
+          39,
+          83
+        ],
+        "that": [
+          40,
+          84
+        ],
+        "Reason": [
+          41
+        ],
+        "Logically.": [
+          42
+        ],
+        "First-order": [
+          43
+        ],
+        "Logic.": [
+          44,
+          52
+        ],
+        "Building": [
+          45
+        ],
+        "a": [
+          46
+        ],
+        "Knowledge": [
+          47,
+          80
+        ],
+        "Base.": [
+          48
+        ],
+        "Inference": [
+          49
+        ],
+        "in": [
+          50,
+          81,
+          88,
+          100
+        ],
+        "First-Order": [
+          51
+        ],
+        "Logical": [
+          53
+        ],
+        "Reasoning": [
+          54,
+          63
+        ],
+        "Systems.": [
+          55,
+          64
+        ],
+        "Practical": [
+          56,
+          86
+        ],
+        "Planning.": [
+          57
+        ],
+        "Planning": [
+          58
+        ],
+        "Acting.": [
+          60
+        ],
+        "Uncertainty.": [
+          61
+        ],
+        "Probabilistic": [
+          62
+        ],
+        "Making": [
+          65,
+          68
+        ],
+        "Simple": [
+          66
+        ],
+        "Decisions.": [
+          67,
+          70
+        ],
+        "Complex": [
+          69
+        ],
+        "Learning": [
+          71,
+          74
+        ],
+        "from": [
+          72
+        ],
+        "Observations.": [
+          73
+        ],
+        "with": [
+          75
+        ],
+        "Neural": [
+          76
+        ],
+        "Networks.": [
+          77
+        ],
+        "Reinforcement": [
+          78
+        ],
+        "Learning.": [
+          79,
+          82
+        ],
+        "Communicate.": [
+          85
+        ],
+        "Communication": [
+          87
+        ],
+        "English.": [
+          89
+        ],
+        "Perception.": [
+          90
+        ],
+        "Robotics.": [
+          91
+        ],
+        "For": [
+          92
+        ],
+        "computer": [
+          93
+        ],
+        "professionals,": [
+          94
+        ],
+        "linguists,": [
+          95
+        ],
+        "cognitive": [
+          97
+        ],
+        "scientists": [
+          98
+        ],
+        "interested": [
+          99
+        ],
+        "intelligence.": [
+          102
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2122410182",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 786
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 788
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 701
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 662
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1456
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1448
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1290
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 920
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 768
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 873
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 984
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1092
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1079
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1143
+        }
+      ],
+      "updated_date": "2025-09-21T23:11:47.541017",
+      "created_date": "2016-06-24"
+    }
+  ],
+  "group_by": []
+}
