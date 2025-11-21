@@ -33,6 +33,7 @@ panel on the left:
 
 Delete existing table
 -- SQLBook: Code
+-- Active: 1763652748211@@127.0.0.1@5432@postgres@public
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 -- If the table already exists we can drop it:
 -- If it doesn't exist nothing happens
@@ -97,7 +98,16 @@ Try it yourself!
 -- Select a new driver id (needs to be unique)
 -- Make sure to deparate arguments by a semicolon!
 
+INSERT INTO drivers VALUES (5, 'Jeremy Anderson', 'American',100000);
+INSERT INTO drivers VALUES (6, 'Kwatcho Mahindana', 'American',50);
 
+INSERT INTO drivers VALUES (7, 'Kejin', 'Chinese',100);
+
+INSERT INTO drivers VALUES (8, 'Zepeng Zhou', 'Chinese',80);
+
+INSERT INTO drivers VALUES (9, 'Tanya', 'Indian',60);
+
+INSERT INTO drivers VALUES (10, 'Zach', 'Chinese',40);
 
 
 
@@ -187,6 +197,8 @@ Try it yourself!
 with more than 60 victories
 -- SQLBook: Code
 -- Write your own code!
+SELECT nationality, driver_id FROM drivers
+WHERE victories > 60; 
 
 
 
@@ -252,9 +264,10 @@ Try it yourself!
 
 -- SQLBook: Code
 # Write your own code
-
-
-
+SELECT nationality,
+sum(victories) AS sum_victories
+FROM drivers
+GROUP BY nationality
 -- SQLBook: Markup
 # <span style="color:darkblue"> IV. Merging </span>
 
